@@ -1,0 +1,6 @@
+Este proyecto es para aplicar lo aprendido en los cursos de platzi:
+-Curso de Prework
+-Curso Definitivo de HTML y CSS
+-Curso Movile First
+-Curso Programación Básica
+-Curso Profesional de Git y GitHub
