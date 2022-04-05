@@ -4,3 +4,4 @@ Este proyecto es para aplicar lo aprendido en los cursos de platzi:
 -Curso Movile First
 -Curso Programación Básica
 -Curso Profesional de Git y GitHub
+-Curso Práctico de JavaScript
