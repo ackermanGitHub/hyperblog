@@ -5,3 +5,4 @@ Este proyecto es para aplicar lo aprendido en los cursos de platzi:
 -Curso Programación Básica
 -Curso Profesional de Git y GitHub
 -Curso Práctico de JavaScript
+-Curso de Closures y Scope en JavaScript
